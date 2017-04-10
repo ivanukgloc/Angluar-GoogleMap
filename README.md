@@ -1,6 +1,6 @@
 # angular-google-maps-lazyloading — AngularJS app
 
- 1. need to install nodejs
+## 1. need to install nodejs
 
    npm install
 
