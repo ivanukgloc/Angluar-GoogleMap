@@ -1,0 +1,16 @@
+{
+  "name": "Webapp-GoogleMap",
+  "description": "Webapp-GoogleMap",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-ui-router": "0.2.11",
+    "angular-loader": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "html5-boilerplate": "~4.3.0",
+    "angular-google-maps": "2.0.9",
+    "oclazyload": "0.5.1"
+  }
+}
